@@ -14,7 +14,7 @@ Wat komt hier voor kijken ??
 - een onboard assembler
 - Hardware opzet
 - Software opzet
-- mc14500b asm. Programma in 31 bytes
+- MC14500B asm. Programma in 31 bytes
 
 En uiteindelijk Lijnvolgen !!
 
