@@ -7,15 +7,14 @@ lijnvolg Robot.
 
 Wat komt hier voor kijken ??
 
--- Hoe werkt een 1-Bit microprocessor.
--- Zijn er nog onderdelen voor te krijgen.
--- Hoe gaan we een systeem opzetten.
--- De ESP32 als EPROM-simulator.
--- een onboard assembler.
--- Hardware opzet.
--- Software opzet.
-
--- mc14500b asm. Programma in 31 bytes.
+- Hoe werkt een 1-Bit microprocessor
+- Zijn er nog onderdelen voor te krijgen
+- Hoe gaan we een systeem opzetten
+- De ESP32 als EPROM-simulator
+- een onboard assembler
+- Hardware opzet
+- Software opzet
+- mc14500b asm. Programma in 31 bytes
 
 En uiteindelijk Lijnvolgen !!
 
