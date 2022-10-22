@@ -1,20 +1,20 @@
 # MC14500B-1Bit-Robot
-Aan de slag met de 1-Bit microprocessor MC14500B
+Getting Started with the 1-Bit Microprocessor MC14500B
 
-De Motorola mc14500b microprocessor uit 1977
-heb ik gebruikt om aan de slag te gaan met de bouw 
-lijnvolg Robot.
+The Motorola mc14500b microprocessor from 1977
+I used to get started with the build
+line-following Robot.
 
-Wat komt hier voor kijken ??
+What does this look like??
 
-- Hoe werkt een 1-Bit microprocessor
-- Zijn er nog onderdelen voor te krijgen
-- Hoe gaan we een systeem opzetten
-- De ESP32 als EPROM-simulator
-- een onboard assembler
-- Hardware opzet
-- Software opzet
-- MC14500B asm. Programma in 31 bytes
+- How does a 1-Bit microprocessor work
+- Are parts still available?
+- How are we going to set up a system
+- The ESP32 as EPROM Simulator
+- an onboard assembler
+- Hardware setup
+- Software setup
+- MC14500B asm. Program in 31 bytes
 
-En uiteindelijk Lijnvolgen !!
+And finally Line Follow !!
 
